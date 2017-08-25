@@ -1,0 +1,11 @@
+.disclaimer {
+  padding: 80px;
+  margin: 0 auto;
+  min-width: 300px;
+  width: fit-content;
+  max-width: 400px;
+}
+
+.left {
+  text-align: left;
+}
